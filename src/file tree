@@ -1,0 +1,10 @@
+hyrox-app/
+├─ package.json
+├─ index.html
+├─ vite.config.js
+├─ .gitignore
+├─ .env.example
+├─ supabase-schema.sql
+└─ src/
+   ├─ main.jsx
+   └─ App.jsx
